@@ -11,8 +11,6 @@ This project involves an in-depth analysis of a supply chain dataset focused on 
 - [Feature Importance Analysis](#feature-importance-analysis)
 - [Key Insights](#key-insights)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
