@@ -85,8 +85,8 @@ Using a Decision Tree Regressor to identify the top features that impact:
  ## Usage
  Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/beauty-products-supply-chain-analysis.git
+   git clone https://github.com/mishra-krishna/Beauty-products-supply-chain-analysis
    cd beauty-products-supply-chain-analysis
    pip install -r requirements.txt
-   python analysis.py
+   Beauty_Products_Supply_Chain_Analysis.ipynb
 
